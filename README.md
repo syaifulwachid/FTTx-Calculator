@@ -31,12 +31,6 @@ Aplikasi kalkulator power budget untuk jaringan Fiber To The x (FTTx) yang memba
 ![image](https://github.com/user-attachments/assets/d82600f8-bdd9-49c5-a504-820246fd3638)
 
 
-
-
-
-
-
-
 ## 🚀 Teknologi yang Digunakan
 
 - Kotlin
